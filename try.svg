@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="position: fixed; top: 0; left: 0;">
+  <style><![CDATA[
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background: transparent;
+    }
+  ]]></style>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml" class="flex h-screen w-screen overflow-hidden text-gray-900" style="background:#11121c;">
+      <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+ <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin="anonymous" />
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
+ <link rel="stylesheet" href="../_astro/math.BBf8Km7E.css" />
+ <style>html,body{background:#11121c}.seo-hidden[data-astro-cid-j7pv25f6]{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+</style>
+       <div class="flex flex-1 flex-col h-dvh"> <header class="seo-hidden"> <div> <div>IDL</div> <span>Learning Platform</span> </div> <nav> <span>Math</span> <span>Language Arts</span> <span>Science</span> <span>Social Studies</span> <span>Spanish</span> </nav> </header> <div class="relative flex-1"> <div class="seo-hidden"> <h1>Personalized Learning for Every Student</h1> <p>
+Our comprehensive K–12 learning platform provides adaptive practice,
+            real-time analytics, and skill-building exercises aligned to curriculum
+            standards. Students strengthen their understanding in mathematics,
+            reading comprehension, grammar, science, and more.
+</p> <p>
+Teachers and parents gain access to actionable insights that support
+            mastery learning and academic growth through targeted skill
+            recommendations.
+</p> </div> <iframe id="frame" src="./welcome" class="absolute inset-0 h-full w-full border-none"></iframe> </div> </div> <script type="module" src="../_astro/lucide.astro_astro_type_script_index_0_lang.DKFALIv4.js"></script> 
+      <script type="module" src="../_astro/index.astro_astro_type_script_index_0_lang.K_JyA7mW.js"></script>
+ <script type="module" src="../_astro/index.astro_astro_type_script_index_1_lang.DrXQqQAd.js"></script>
+ <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-DQZPCVEF89"></script>
+ <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { window.dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-DQZPCVEF89');
+    </script>
+ <script type="module" src="../_astro/page.Je76CX0U.js"></script>
+    </body>
+  </foreignObject>
+</svg>
